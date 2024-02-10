@@ -1,0 +1,5 @@
+- create a website that showcase the palette and helo build it almost automaticaly.
+- must be using one main color as a base and help user build palette with some usefull tips
+- focus on UX
+- follow the process of yt how i make ui color palettes from ux tools chanel
+- add a website preview with some standard components 

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"1. FLEETING\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766115
+      }
+    },
+    {
+      "query": "path:\"2. LITERATURE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755294
+      }
+    },
+    {
+      "query": "path:\"3. PERMANENT\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1632189
+      }
+    },
+    {
+      "query": "path:\"Z. Templates\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9267578
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 0.906370757180157,
+  "lineSizeMultiplier": 1.14031331592689,
+  "collapse-forces": false,
+  "centerStrength": 0.556061171204774,
+  "repelStrength": 16.1820216337188,
+  "linkStrength": 1,
+  "linkDistance": 370,
+  "scale": 0.15592475224694066,
+  "close": false
+}
