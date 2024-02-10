@@ -1,0 +1,73 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "gi8QhR0jvepkRXWFoXJED",
+      "name": "Sand",
+      "value": "#ffd4a3"
+    },
+    {
+      "id": "of4tSuSHtq2tBZAdiv84x",
+      "name": "Turquoise",
+      "value": "#18e7bd"
+    },
+    {
+      "id": "yBxULFiJ1GjhHBSHGwcV8",
+      "name": "Lime",
+      "value": "#b2d942"
+    },
+    {
+      "id": "THCUTAloAPqFKKNxEI6IK",
+      "name": "Gold",
+      "value": "#ffaa5e"
+    },
+    {
+      "id": "w01X-jRgRCtaASG9phfaR",
+      "name": "Chocolate",
+      "value": "#8d697a"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "1. FLEETING",
+      "color": "gi8QhR0jvepkRXWFoXJED"
+    },
+    {
+      "path": "2. LITERATURE",
+      "color": "THCUTAloAPqFKKNxEI6IK"
+    },
+    {
+      "path": "3. PERMANENT",
+      "color": "of4tSuSHtq2tBZAdiv84x"
+    },
+    {
+      "path": "Z. Templates",
+      "color": "w01X-jRgRCtaASG9phfaR"
+    },
+    {
+      "path": "2. LITERATURE/AutoImported",
+      "color": "THCUTAloAPqFKKNxEI6IK"
+    },
+    {
+      "path": "2. LITERATURE/AutoImported/PostgreSQL",
+      "color": "THCUTAloAPqFKKNxEI6IK"
+    },
+    {
+      "path": "2. LITERATURE/AutoImported/SysAdmin",
+      "color": "THCUTAloAPqFKKNxEI6IK"
+    },
+    {
+      "path": "2. LITERATURE/AutoImported/devops",
+      "color": "THCUTAloAPqFKKNxEI6IK"
+    },
+    {
+      "path": "2. LITERATURE/AutoImported/VeilleTechno",
+      "color": "THCUTAloAPqFKKNxEI6IK"
+    },
+    {
+      "path": "Z. Assets",
+      "color": "w01X-jRgRCtaASG9phfaR"
+    }
+  ]
+}

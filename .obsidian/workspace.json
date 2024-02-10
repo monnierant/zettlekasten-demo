@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "dbea6b248373e179",
+    "type": "split",
+    "children": [
+      {
+        "id": "50bc80b7500e113b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee15487376fbc729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. PERMANENT/APTITUDE - Download linux package.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aebffe9b3e23c88b",
+    "type": "split",
+    "children": [
+      {
+        "id": "afa783e125e4fcd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb32690c019780ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "443bb90fa86335e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eed4cd575597430c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "6cfea30e0a768e65",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3160128f99c67d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8194c8951518ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "211f4ce873388651",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. PERMANENT/APTITUDE - Download linux package.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bab7ef97b289f78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. PERMANENT/APTITUDE - Download linux package.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f45ecedaca844f83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc33016b7fdc008e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. PERMANENT/APTITUDE - Download linux package.md"
+              }
+            }
+          },
+          {
+            "id": "b9064b6c199dbd4d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d5c422ca5fdefa11",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "0d9f69c16f1d2620",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5410d1a94f555f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "3. PERMANENT/APTITUDE - Download linux package.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:\"1. FLEETING\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16766115
+                      }
+                    },
+                    {
+                      "query": "path:\"2. LITERATURE\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16755294
+                      }
+                    },
+                    {
+                      "query": "path:\"3. PERMANENT\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1632189
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.706422976501305,
+                  "lineSizeMultiplier": 1.12751958224543,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 16.4162625885863,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 530.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-journey-plugin:Find Journey": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-raindrop-highlights:Sync your Raindrop highlights": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "simple-rss:Simple RSS": false,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "cb32690c019780ef",
+  "lastOpenFiles": [
+    "LICENSE",
+    "temp/LICENSE",
+    "temp",
+    "3. PERMANENT/How to know Linux VM ressources.md",
+    "2. LITERATURE/📺Animal Crossing, wobbly leaves, pivot caching.md",
+    "3. PERMANENT/Put mesh origin into vertex color - Blender Python Script.md",
+    "3. PERMANENT/Unable to locate package error ubuntu.md",
+    "3. PERMANENT/APTITUDE - Download linux package.md",
+    "3. PERMANENT/APT Download package only.md",
+    "3. PERMANENT/How to edit in lot metadata for obsidian notes.md",
+    "3. PERMANENT/Eisenhower matrix.md",
+    "3. PERMANENT/How to master 3D Printing.md",
+    "1. FLEETING/PG Tuning.md",
+    "3. PERMANENT/Setup PG Badger.md",
+    "2. LITERATURE/📺The continuity of spline.md",
+    "3. PERMANENT/Mustache - Templating multi language.md",
+    "Z. Assets/770622a662bee5822341898480b61726_MD5.png",
+    "3. PERMANENT/Decode Param.md",
+    "3. PERMANENT/Better Shell Syntax.md",
+    "3. PERMANENT/Better Comments.md",
+    "2. LITERATURE/📺NET Microservices - Full Course.md",
+    "Z. Assets/Pasted image 20240116102020.png",
+    "3. PERMANENT/How to integrate kubernetes with traefik as at Axess.md",
+    "3. PERMANENT/How to create a HyperV Lab.md",
+    "3. PERMANENT/Gitlab CICD - Custom Terraform gitlab image for adding templating to the system.md",
+    "3. PERMANENT/Gitlab CICD - Use terraform workflow.md",
+    "3. PERMANENT/Simple kubernetes deployment to test http network access.md",
+    "3. PERMANENT/How to optimise Obsidian use.md",
+    "3. PERMANENT/Get linux version.md",
+    "3. PERMANENT/Get linux RAM info.md",
+    "Z. Assets/c5ae8689e6ea947dd37199fe9a706975_MD5.png",
+    "Z. Assets/0d3be0fc9015e9b87c7206775d0ee5e4_MD5.png",
+    "Z. Assets/ed79bffab0be6c286e523d4e03f51f58_MD5.png",
+    "Z. Assets/0810ee5953b16aaf50f915540212bd08_MD5.png",
+    "Z. Assets/028bf58e5a82a97fe36e4861ce0401d8_MD5.png",
+    "Z. Assets/20e722f358a90b0782f91809c265df44_MD5.png",
+    "Z. Assets/8da05daf87fb8f4b5cc3dbcda6be6558_MD5.png",
+    "Z. Assets/5c6d15103f39b331f5c0984a36d35a77_MD5.png",
+    "Z. Assets",
+    "2. LITERATURE/AutoImported/Tools",
+    "2. LITERATURE/AutoImported/VeilleTechno",
+    "2. LITERATURE/AutoImported/SysAdmin",
+    "2. LITERATURE/AutoImported/devops",
+    "2. LITERATURE/AutoImported/PostgreSQL",
+    "2. LITERATURE/AutoImported/dev",
+    "2. LITERATURE/AutoImported"
+  ]
+}

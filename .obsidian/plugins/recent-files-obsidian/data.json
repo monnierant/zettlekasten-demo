@@ -1,0 +1,163 @@
+{
+  "recentFiles": [
+    {
+      "basename": "APTITUDE - Download linux package",
+      "path": "3. PERMANENT/APTITUDE - Download linux package.md"
+    },
+    {
+      "basename": "How to know Linux VM ressources",
+      "path": "3. PERMANENT/How to know Linux VM ressources.md"
+    },
+    {
+      "basename": "📺The continuity of spline",
+      "path": "2. LITERATURE/📺The continuity of spline.md"
+    },
+    {
+      "basename": "📺NET Microservices - Full Course",
+      "path": "2. LITERATURE/📺NET Microservices - Full Course.md"
+    },
+    {
+      "basename": "Gitlab CICD - Custom Terraform gitlab image for adding templating to the system",
+      "path": "3. PERMANENT/Gitlab CICD - Custom Terraform gitlab image for adding templating to the system.md"
+    },
+    {
+      "basename": "📺An introduction to Shader Art Coding",
+      "path": "2. LITERATURE/📺An introduction to Shader Art Coding.md"
+    },
+    {
+      "basename": "Bash - Kill all process with the same name",
+      "path": "3. PERMANENT/Bash - Kill all process with the same name.md"
+    },
+    {
+      "basename": "Gitlab Custom Flow for good devops",
+      "path": "3. PERMANENT/Gitlab Custom Flow for good devops.md"
+    },
+    {
+      "basename": "How to use gitlab for CI-CD",
+      "path": "3. PERMANENT/How to use gitlab for CI-CD.md"
+    },
+    {
+      "basename": "🌐Add tree to git-bash on Windows 10",
+      "path": "2. LITERATURE/AutoImported/VeilleTechno/🌐Add tree to git-bash on Windows 10.md"
+    },
+    {
+      "basename": "🌐IAMAG Master Classes",
+      "path": "2. LITERATURE/AutoImported/VeilleTechno/🌐IAMAG Master Classes.md"
+    },
+    {
+      "basename": "🌐regex101 build, test, and debug regex",
+      "path": "2. LITERATURE/AutoImported/VeilleTechno/🌐regex101 build, test, and debug regex.md"
+    },
+    {
+      "basename": "🌐Software and technology stacks used by top companies",
+      "path": "2. LITERATURE/AutoImported/VeilleTechno/🌐Software and technology stacks used by top companies.md"
+    },
+    {
+      "basename": "🌐Accessing trials and kits for Windows",
+      "path": "2. LITERATURE/AutoImported/VeilleTechno/🌐Accessing trials and kits for Windows.md"
+    },
+    {
+      "basename": "🌐2022 GPU Benchmark and Graphics Card Comparison Chart",
+      "path": "2. LITERATURE/AutoImported/VeilleTechno/🌐2022 GPU Benchmark and Graphics Card Comparison Chart.md"
+    },
+    {
+      "basename": "How to be a better DevOps",
+      "path": "3. PERMANENT/How to be a better DevOps.md"
+    },
+    {
+      "basename": "Create a local apt repo with aptly",
+      "path": "3. PERMANENT/Create a local apt repo with aptly.md"
+    },
+    {
+      "basename": "Gitlab CI Pipeline config for generating a generic package",
+      "path": "2. LITERATURE/Gitlab CI Pipeline config for generating a generic package.md"
+    },
+    {
+      "basename": "Curtin - Apt-Source reference",
+      "path": "2. LITERATURE/Curtin - Apt-Source reference.md"
+    },
+    {
+      "basename": "🗃️SL - PostgreSQL",
+      "path": "2. LITERATURE/🗃️SL - PostgreSQL.md"
+    },
+    {
+      "basename": "🗃️SL - Kubernetes",
+      "path": "2. LITERATURE/🗃️SL - Kubernetes.md"
+    },
+    {
+      "basename": "🗃️SL - Gitlab",
+      "path": "2. LITERATURE/🗃️SL - Gitlab.md"
+    },
+    {
+      "basename": "📺What Is GitLab Workflow - GitLab Flow",
+      "path": "2. LITERATURE/📺What Is GitLab Workflow - GitLab Flow.md"
+    },
+    {
+      "basename": "📺Top Tips to Manage Your Outlook Calendar - Youtube",
+      "path": "2. LITERATURE/📺Top Tips to Manage Your Outlook Calendar - Youtube.md"
+    },
+    {
+      "basename": "📺TOO MANY EMAILS Outlook - Zero inbox",
+      "path": "2. LITERATURE/📺TOO MANY EMAILS Outlook - Zero inbox.md"
+    },
+    {
+      "basename": "📺Time Management VS Task Management",
+      "path": "2. LITERATURE/📺Time Management VS Task Management.md"
+    },
+    {
+      "basename": "📺The Best Productivity Hacks of All Time - Ali Abdaal",
+      "path": "2. LITERATURE/📺The Best Productivity Hacks of All Time - Ali Abdaal.md"
+    },
+    {
+      "basename": "📺Preseed - Crééez votre ISO debian personnalisé",
+      "path": "2. LITERATURE/📺Preseed - Crééez votre ISO debian personnalisé.md"
+    },
+    {
+      "basename": "📺Inbox Zero in 10 Mins - why you should try it - YouTube Kicky Zhao",
+      "path": "2. LITERATURE/📺Inbox Zero in 10 Mins - why you should try it - YouTube Kicky Zhao.md"
+    },
+    {
+      "basename": "📺 top 10 css one liners that will blow your mind",
+      "path": "2. LITERATURE/📺 top 10 css one liners that will blow your mind.md"
+    },
+    {
+      "basename": "🌐Storage Curtin",
+      "path": "2. LITERATURE/🌐Storage Curtin.md"
+    },
+    {
+      "basename": "🌐Semantic Version 2.0",
+      "path": "2. LITERATURE/🌐Semantic Version 2.0.md"
+    },
+    {
+      "basename": "🌐Run standalone minio in a docker or Kube environment",
+      "path": "2. LITERATURE/🌐Run standalone minio in a docker or Kube environment.md"
+    },
+    {
+      "basename": "🌐How to create a local APT repository - Ubuntu",
+      "path": "2. LITERATURE/🌐How to create a local APT repository - Ubuntu.md"
+    },
+    {
+      "basename": "🌐Git Flow",
+      "path": "2. LITERATURE/🌐Git Flow.md"
+    },
+    {
+      "basename": "🌐Auto log Bash scripts",
+      "path": "2. LITERATURE/🌐Auto log Bash scripts.md"
+    },
+    {
+      "basename": "🌐aptly - Debian repository management tool",
+      "path": "2. LITERATURE/AutoImported/SysAdmin/🌐aptly - Debian repository management tool.md"
+    },
+    {
+      "basename": "🌐How to generate the `Release` file on a local package repository",
+      "path": "2. LITERATURE/AutoImported/SysAdmin/🌐How to generate the `Release` file on a local package repository.md"
+    },
+    {
+      "basename": "🌐How to create a local repository using apt-mirror and mirrorkit",
+      "path": "2. LITERATURE/AutoImported/SysAdmin/🌐How to create a local repository using apt-mirror and mirrorkit.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
