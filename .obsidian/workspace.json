@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "50bc80b7500e113b",
+        "id": "47aac34a093d2bc0",
         "type": "tabs",
         "children": [
           {
-            "id": "ee15487376fbc729",
+            "id": "f10ace16f8a31991",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. PERMANENT/APTITUDE - Download linux package.md",
+                "file": "3. PERMANENT/Reduce time between dev commit and deployment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4049422a0d56ab59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. PERMANENT/APTITUDE - Download linux package.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. PERMANENT/APTITUDE - Download linux package.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. PERMANENT/APTITUDE - Download linux package.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3. PERMANENT/APTITUDE - Download linux package.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +228,7 @@
                   "repelStrength": 16.4162625885863,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 1,
+                  "scale": 0.689577388754611,
                   "close": true
                 }
               }
@@ -249,53 +262,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cb32690c019780ef",
+  "active": "4049422a0d56ab59",
   "lastOpenFiles": [
-    "LICENSE",
-    "temp/LICENSE",
-    "temp",
-    "3. PERMANENT/How to know Linux VM ressources.md",
-    "2. LITERATURE/📺Animal Crossing, wobbly leaves, pivot caching.md",
+    "ppt884C.tmp",
+    "~$Presentation_FR.pptx",
+    "pptC863.tmp",
+    "~$Presentation_EN.pptx",
+    "Presentation_EN.pptx",
+    "Presentation_FR - Copie.pptx",
+    "Presentation_FR.pptx",
+    "3. PERMANENT/Reduce time between dev commit and deployment.md",
+    "README.md",
+    "LuccaGrandOral_Obsidian.pptx",
     "3. PERMANENT/Put mesh origin into vertex color - Blender Python Script.md",
-    "3. PERMANENT/Unable to locate package error ubuntu.md",
-    "3. PERMANENT/APTITUDE - Download linux package.md",
-    "3. PERMANENT/APT Download package only.md",
-    "3. PERMANENT/How to edit in lot metadata for obsidian notes.md",
-    "3. PERMANENT/Eisenhower matrix.md",
-    "3. PERMANENT/How to master 3D Printing.md",
-    "1. FLEETING/PG Tuning.md",
-    "3. PERMANENT/Setup PG Badger.md",
-    "2. LITERATURE/📺The continuity of spline.md",
+    "3. PERMANENT/Powershell ZIp File.md",
+    "3. PERMANENT/Powershell Sum File Size per grouping.md",
+    "3. PERMANENT/Powershell Sum File Size.md",
+    "3. PERMANENT/Powershell Repository Module not avaliable.md",
+    "3. PERMANENT/Powershell - Try Catch.md",
+    "3. PERMANENT/Powershell - Start Process.md",
+    "3. PERMANENT/Powershell - SFTP - Posh-SSH.md",
+    "3. PERMANENT/Powershell - kill all process with the same name.md",
+    "3. PERMANENT/powershell - Filter result.md",
+    "3. PERMANENT/Powershell - Cafeinate - Move Mouse.md",
+    "3. PERMANENT/Powershell  - Get Command Location.md",
+    "3. PERMANENT/PostgreSQL reload conf without restarting.md",
+    "3. PERMANENT/PostgreSQL - Show users.md",
+    "3. PERMANENT/PostgreSQL - Show database.md",
+    "3. PERMANENT/PostgreSQL - pg_dump  ERROR invalid page in block of relation.md",
+    "3. PERMANENT/PostgreSQL - Disconnect users from DB.md",
+    "3. PERMANENT/PostgreSQL - Delete user.md",
+    "3. PERMANENT/PostgreSQL - Delete Database.md",
+    "3. PERMANENT/PostgreSQL - Create Database and User.md",
     "3. PERMANENT/Mustache - Templating multi language.md",
+    "3. PERMANENT/minio PBAC Policy Based Access Control.md",
+    "3. PERMANENT/Mail management.md",
+    "Pasted image 20240210114443.png",
+    "ListPlugins.txt",
+    "ListPlugin.txt",
+    "LICENSE",
     "Z. Assets/770622a662bee5822341898480b61726_MD5.png",
-    "3. PERMANENT/Decode Param.md",
-    "3. PERMANENT/Better Shell Syntax.md",
-    "3. PERMANENT/Better Comments.md",
-    "2. LITERATURE/📺NET Microservices - Full Course.md",
     "Z. Assets/Pasted image 20240116102020.png",
-    "3. PERMANENT/How to integrate kubernetes with traefik as at Axess.md",
-    "3. PERMANENT/How to create a HyperV Lab.md",
-    "3. PERMANENT/Gitlab CICD - Custom Terraform gitlab image for adding templating to the system.md",
-    "3. PERMANENT/Gitlab CICD - Use terraform workflow.md",
-    "3. PERMANENT/Simple kubernetes deployment to test http network access.md",
-    "3. PERMANENT/How to optimise Obsidian use.md",
-    "3. PERMANENT/Get linux version.md",
-    "3. PERMANENT/Get linux RAM info.md",
     "Z. Assets/c5ae8689e6ea947dd37199fe9a706975_MD5.png",
     "Z. Assets/0d3be0fc9015e9b87c7206775d0ee5e4_MD5.png",
     "Z. Assets/ed79bffab0be6c286e523d4e03f51f58_MD5.png",
     "Z. Assets/0810ee5953b16aaf50f915540212bd08_MD5.png",
     "Z. Assets/028bf58e5a82a97fe36e4861ce0401d8_MD5.png",
     "Z. Assets/20e722f358a90b0782f91809c265df44_MD5.png",
-    "Z. Assets/8da05daf87fb8f4b5cc3dbcda6be6558_MD5.png",
-    "Z. Assets/5c6d15103f39b331f5c0984a36d35a77_MD5.png",
-    "Z. Assets",
-    "2. LITERATURE/AutoImported/Tools",
-    "2. LITERATURE/AutoImported/VeilleTechno",
-    "2. LITERATURE/AutoImported/SysAdmin",
-    "2. LITERATURE/AutoImported/devops",
-    "2. LITERATURE/AutoImported/PostgreSQL",
-    "2. LITERATURE/AutoImported/dev",
-    "2. LITERATURE/AutoImported"
+    "Z. Assets/8da05daf87fb8f4b5cc3dbcda6be6558_MD5.png"
   ]
 }

@@ -1,0 +1,45 @@
+# Installed PLugins
+
+- Admonition
+- Advanced Paste
+- Advanced Tables
+- Auto Link Title
+- Better Word Count
+- Charts
+- Code Block Enhancer
+- Commander
+- Convert url to preview (iframe)
+- Dataview
+- Duplicate Line
+- Editor Syntax Highlight
+- Emoji Shortcodes
+- Emoji Toolbar
+- File Color
+- Format code
+- Highlightr
+- Homepage
+- Iconize
+- Journey
+- Linter
+- Local Images Plus
+- Markdown Formatting Assistant
+- Media Extended
+- MetaEdit
+- Note Refactor
+- Omnisearch
+- Plugin Update Tracker
+- Raindrop Highlights
+- Reading Time
+- ReadItLater
+- Recent Files
+- Regex Pipeline
+- Settings Search
+- Simple RSS
+- Style Settings
+- Supercharged Links
+- Table of Contents
+- Tag Wrangler
+- Templater
+- Tracker
+- Various Complements
+- YTranscript
