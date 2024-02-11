@@ -1,0 +1,88 @@
+{
+  "targetAttributes": [
+    "type"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "question",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "1cd7-2ece",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "tool",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "e1d9-f582",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "evidence",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "4dec-3577",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "methode",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "26c2-2e8d",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "conclusion",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "8b67-467a",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "creative",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "b726-ffa0",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    }
+  ]
+}

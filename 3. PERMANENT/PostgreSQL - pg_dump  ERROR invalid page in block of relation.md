@@ -1,10 +1,10 @@
 ---
-type: troubleshoot
+type: evidence
 topic: PostgreSQL
 ---
 
 - Topic : #VeilleIT/PostgreSQL 
-- Tags : #pg_dump
+- Tags : #pg_dump #troubleshoot 
 
 # Idea
 

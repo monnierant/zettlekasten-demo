@@ -10,8 +10,6 @@ topic:
 
 
 
-
-
 # Links
 
 Sources :
@@ -23,4 +21,3 @@ Sources :
 ## North : Theme / Question
 
 ## South : What does it lead to
-
