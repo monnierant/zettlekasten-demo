@@ -7,9 +7,7 @@ topic: devops
 
 # Idea
 
-
 How can i use all the power of gitlab be a better DevOps ?
-
 
 Sources :
 
