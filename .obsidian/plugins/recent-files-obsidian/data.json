@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "How to optimise Entity Framework requests",
+      "path": "3. PERMANENT/How to optimise Entity Framework requests.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -185,20 +193,12 @@
       "path": "Z. Templates/TMPL - Super Literature.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "Partial - compass",
       "path": "Z. Templates/Partial - compass.md"
     },
     {
       "basename": "APTITUDE - Download linux package",
       "path": "3. PERMANENT/APTITUDE - Download linux package.md"
-    },
-    {
-      "basename": "How to know Linux VM ressources",
-      "path": "3. PERMANENT/How to know Linux VM ressources.md"
     }
   ],
   "omittedPaths": [],
